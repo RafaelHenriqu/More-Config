@@ -10,6 +10,14 @@ function Main(){
       }
     }
     
+    // tab-title
+
+    if (e.hasAttribute("tab-title")){ // Remove O Botão de Shorts
+      if (e.getAttribute("tab-title") == "Shorts"){
+        e.remove()
+      }
+    }
+
     if (e.hasAttribute("is-post")){ // Remove Posts do youtube
       e.parentElement.parentElement.parentElement.remove()
     }
