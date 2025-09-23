@@ -4,9 +4,9 @@
 
 ### Oque é o More Config?
 
-````txt
-Uma extensão para navegador capaz de eliminar certas funcionalidades do YouTube, perfeita para as pessoas que não conseguem ver um short e não ir ver nele.
-````
+
+* Uma extensão para navegador capaz de eliminar certas funcionalidades do YouTube, perfeita para as pessoas que não conseguem ver um short e não ir ver nele.
+
 
 
 ### Objetivo
